@@ -1,0 +1,14 @@
+{
+  "name": "BlueTech Innovation",
+  "short_name": "BlueTech",
+  "icons": [
+    {
+      "src": "assets/logo/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#031B34",
+  "background_color": "#031B34",
+  "display": "standalone"
+}
